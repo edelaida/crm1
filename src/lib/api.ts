@@ -6,7 +6,6 @@ export interface SummaryStats {
 }
 
 export interface SummarySales {
-  id: string;
   companyId: string;
   companyTitle: string;
   sold: number;
