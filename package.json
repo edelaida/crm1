@@ -13,8 +13,8 @@
     "@tanstack/react-query": "^5.75.5",
     "@tanstack/react-query-devtools": "^5.75.5",
     "clsx": "^2.1.1",
-    "formik": "^2.4.6",
-    "next": "15.3.1",
+    "formik": "^2.4.5",
+    "next": "14.0.5-canary.51",
     "prettier": "^3.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -27,8 +27,10 @@
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
-    "eslint-config-next": "15.3.1",
+    "eslint-config-next": "14.0.5-canary.51",
+    "eslint-config-prettier": "^9.1.0",
     "postcss": "^8.5.3",
+    "prettier": "^3.1.1",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
